@@ -1,3 +1,3 @@
 # chrome-extensions-warehouse
 
-test git hook1
+test git hook
